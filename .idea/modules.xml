@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/Methods.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/Strings.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/control-flow/control-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/core-java-practice.iml" filepath="$PROJECT_DIR$/core-java-practice/core-java-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/programming-elements.iml" filepath="$PROJECT_DIR$/core-java-practice/gcr-codebase/programming-elements/programming-elements.iml" />
+    </modules>
+  </component>
+</project>
