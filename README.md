@@ -1,3 +1,4 @@
+```text
 # Repository Structure
 BridgeLabz-SIPP-Training-2026
 │
@@ -55,4 +56,4 @@ BridgeLabz-SIPP-Training-2026
 │ └── Subqueries & Advanced Queries
 │
 │
-└── reviews/
+└── reviews/```
